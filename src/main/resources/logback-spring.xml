@@ -1,0 +1,19 @@
+<configuration>
+
+    <!-- Define o padrão de formatação dos logs -->
+    <property name="LOG_PATTERN" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"/>
+
+    <!-- Define o destino dos logs -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>logs/application.log</file>
+        <encoder>
+            <pattern>${LOG_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Define o nível de log para a raiz -->
+    <root level="INFO">
+        <appender-ref ref="FILE"/>
+    </root>
+
+</configuration>

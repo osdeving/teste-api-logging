@@ -1,0 +1,184 @@
+2023-07-16 04:17:30.627 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17.0.2 with PID 214913 (/home/willams/teste-api-logging/target/classes started by willams in /home/willams/teste-api-logging)
+2023-07-16 04:17:30.629 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 04:17:31.146 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-07-16 04:17:31.150 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-07-16 04:17:31.152 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 04:17:31.152 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 04:17:31.206 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 04:17:31.207 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 534 ms
+2023-07-16 04:17:31.402 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-07-16 04:17:31.411 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-16 04:17:31.417 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.127 seconds (process running for 1.353)
+2023-07-16 04:18:01.893 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-16 04:18:01.893 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-07-16 04:18:01.894 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-07-16 04:19:43.490 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17.0.2 with PID 215169 (/home/willams/teste-api-logging/target/classes started by willams in /home/willams/teste-api-logging)
+2023-07-16 04:19:43.493 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 04:19:43.966 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-07-16 04:19:43.971 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-07-16 04:19:43.972 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 04:19:43.972 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 04:19:44.021 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 04:19:44.023 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 492 ms
+2023-07-16 04:19:44.187 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-07-16 04:19:44.194 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-16 04:19:44.199 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.097 seconds (process running for 1.311)
+2023-07-16 04:20:02.032 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-16 04:20:02.033 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-07-16 04:20:02.033 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2023-07-16 04:20:02.046 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Hello
+2023-07-16 04:20:31.273 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17.0.2 with PID 215339 (/home/willams/teste-api-logging/target/classes started by willams in /home/willams/teste-api-logging)
+2023-07-16 04:20:31.275 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 04:20:31.763 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-07-16 04:20:31.768 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-07-16 04:20:31.769 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 04:20:31.769 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 04:20:31.822 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 04:20:31.824 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 509 ms
+2023-07-16 04:20:31.992 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-07-16 04:20:31.999 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-16 04:20:32.005 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.046 seconds (process running for 1.295)
+2023-07-16 04:20:37.265 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-16 04:20:37.265 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-07-16 04:20:37.266 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-07-16 04:20:37.280 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Hello
+2023-07-16 04:20:41.476 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Hello
+2023-07-16 04:25:33.981 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Hello
+2023-07-16 04:26:57.331 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Hello
+2023-07-16 05:06:07.992 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Hello
+2023-07-16 05:10:34.304 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17.0.2 with PID 226475 (/home/willams/teste-api-logging/target/classes started by willams in /home/willams/teste-api-logging)
+2023-07-16 05:10:34.307 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 05:10:34.797 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-07-16 05:10:34.802 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-07-16 05:10:34.804 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 05:10:34.804 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 05:10:34.856 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 05:10:34.858 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 516 ms
+2023-07-16 05:10:35.040 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-07-16 05:10:35.048 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-16 05:10:35.053 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 1.109 seconds (process running for 1.335)
+2023-07-16 05:10:43.285 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-16 05:10:43.285 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-07-16 05:10:43.286 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2023-07-16 05:10:43.300 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 0fd72dc7-5bce-422e-90b1-d05f8ddf4d4f. Start Time: 2023-07-16T05:10:43.300462426
+2023-07-16 05:10:45.301 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 0fd72dc7-5bce-422e-90b1-d05f8ddf4d4f. End Time: 2023-07-16T05:10:45.301394218. Processing Time: 2000 ms
+2023-07-16 05:10:47.034 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: cbb023ac-252d-48dc-ba06-bcdec0b0cf30. Start Time: 2023-07-16T05:10:47.034711809
+2023-07-16 05:10:49.035 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: cbb023ac-252d-48dc-ba06-bcdec0b0cf30. End Time: 2023-07-16T05:10:49.035139141. Processing Time: 2000 ms
+2023-07-16 05:20:51.735 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 508c81f8-678d-4cb7-8acb-3038b8f7d385. Start Time: 2023-07-16T05:20:51.735770639
+2023-07-16 05:20:53.736 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 508c81f8-678d-4cb7-8acb-3038b8f7d385. End Time: 2023-07-16T05:20:53.736064544. Processing Time: 2000 ms
+2023-07-16 05:21:16.271 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: a652ce76-fef7-4810-b3f3-fb8c260bf061. Start Time: 2023-07-16T05:21:16.271056921
+2023-07-16 05:21:18.271 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: a652ce76-fef7-4810-b3f3-fb8c260bf061. End Time: 2023-07-16T05:21:18.271283696. Processing Time: 2000 ms
+2023-07-16 05:23:43.091 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 60753caf-b2c6-47a3-81e4-f3442b3da725. Start Time: 2023-07-16T05:23:43.091275827
+2023-07-16 05:23:43.191 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 80bdd823-f1bd-4561-91cc-058d6f54f077. Start Time: 2023-07-16T05:23:43.191879247
+2023-07-16 05:23:43.290 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 9d2c657b-1882-49a4-982b-a0d30ce4d4e7. Start Time: 2023-07-16T05:23:43.290603230
+2023-07-16 05:23:43.391 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 965d1d10-5422-45ac-96de-1713937244ab. Start Time: 2023-07-16T05:23:43.391073681
+2023-07-16 05:23:43.490 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 7a1e41cd-ad94-46e1-ac54-5d4cf24eea24. Start Time: 2023-07-16T05:23:43.490886515
+2023-07-16 05:23:43.591 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: cc4386bb-b5a1-4ff6-be10-0cf12c2490f8. Start Time: 2023-07-16T05:23:43.591347109
+2023-07-16 05:23:43.691 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: a1c0007f-b0c3-48c7-966d-0f30891200b8. Start Time: 2023-07-16T05:23:43.691563651
+2023-07-16 05:23:43.791 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 270aebe1-fbf3-4a1b-a102-0043549b4e19. Start Time: 2023-07-16T05:23:43.791863472
+2023-07-16 05:23:43.891 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: e969d878-85db-4e9e-94e6-1f7767519ca0. Start Time: 2023-07-16T05:23:43.891073466
+2023-07-16 05:23:43.990 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: d7de380a-6fe7-473e-a492-569cb9167be2. Start Time: 2023-07-16T05:23:43.990841631
+2023-07-16 05:23:45.091 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 60753caf-b2c6-47a3-81e4-f3442b3da725. End Time: 2023-07-16T05:23:45.091569116. Processing Time: 2000 ms
+2023-07-16 05:23:45.192 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 80bdd823-f1bd-4561-91cc-058d6f54f077. End Time: 2023-07-16T05:23:45.192195370. Processing Time: 2000 ms
+2023-07-16 05:23:45.290 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 9d2c657b-1882-49a4-982b-a0d30ce4d4e7. End Time: 2023-07-16T05:23:45.290839325. Processing Time: 2000 ms
+2023-07-16 05:23:45.391 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 965d1d10-5422-45ac-96de-1713937244ab. End Time: 2023-07-16T05:23:45.391338313. Processing Time: 2000 ms
+2023-07-16 05:23:45.491 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 7a1e41cd-ad94-46e1-ac54-5d4cf24eea24. End Time: 2023-07-16T05:23:45.491260655. Processing Time: 2000 ms
+2023-07-16 05:23:45.591 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: cc4386bb-b5a1-4ff6-be10-0cf12c2490f8. End Time: 2023-07-16T05:23:45.591602153. Processing Time: 2000 ms
+2023-07-16 05:23:45.691 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: a1c0007f-b0c3-48c7-966d-0f30891200b8. End Time: 2023-07-16T05:23:45.691921193. Processing Time: 2000 ms
+2023-07-16 05:23:45.792 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 270aebe1-fbf3-4a1b-a102-0043549b4e19. End Time: 2023-07-16T05:23:45.792174619. Processing Time: 2000 ms
+2023-07-16 05:23:45.891 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: e969d878-85db-4e9e-94e6-1f7767519ca0. End Time: 2023-07-16T05:23:45.891329121. Processing Time: 2000 ms
+2023-07-16 05:23:45.991 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: d7de380a-6fe7-473e-a492-569cb9167be2. End Time: 2023-07-16T05:23:45.991049496. Processing Time: 2000 ms
+2023-07-16 05:27:37.738 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 49740082-6e1e-4856-9454-eb0ae8c6ccc4. Start Time: 2023-07-16T05:27:37.738682699
+2023-07-16 05:27:37.840 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 083d989f-a5b3-42da-a7e7-2b180607de1b. Start Time: 2023-07-16T05:27:37.840829828
+2023-07-16 05:27:37.939 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 6598926e-65b7-4aa5-90b9-d40b99bebfc8. Start Time: 2023-07-16T05:27:37.939228427
+2023-07-16 05:27:38.039 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 091908d7-e525-4bbb-be87-75bb28980dc2. Start Time: 2023-07-16T05:27:38.039653189
+2023-07-16 05:27:38.138 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 28ab7467-5ea2-49bb-a06f-a6227f8f0bc7. Start Time: 2023-07-16T05:27:38.138619620
+2023-07-16 05:27:38.238 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 3a3f01cd-4544-4168-97d2-3e9f19e741de. Start Time: 2023-07-16T05:27:38.238541078
+2023-07-16 05:27:38.338 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 1ad79f9a-c39f-4a46-81cd-28e67a2159b4. Start Time: 2023-07-16T05:27:38.338770301
+2023-07-16 05:27:38.439 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 390e7d56-79bf-4116-a985-6d483edc6998. Start Time: 2023-07-16T05:27:38.439137337
+2023-07-16 05:27:38.538 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: e2d32069-7154-4300-aa59-a0f581bdbf7f. Start Time: 2023-07-16T05:27:38.538967747
+2023-07-16 05:27:38.639 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: f360e0d2-159c-476c-b4fc-9378b67bb3dd. Start Time: 2023-07-16T05:27:38.639043684
+2023-07-16 05:27:39.739 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 49740082-6e1e-4856-9454-eb0ae8c6ccc4. End Time: 2023-07-16T05:27:39.739030488. Processing Time: 2000 ms
+2023-07-16 05:27:39.841 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 083d989f-a5b3-42da-a7e7-2b180607de1b. End Time: 2023-07-16T05:27:39.841207837. Processing Time: 2000 ms
+2023-07-16 05:27:39.939 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 6598926e-65b7-4aa5-90b9-d40b99bebfc8. End Time: 2023-07-16T05:27:39.939439804. Processing Time: 2000 ms
+2023-07-16 05:27:40.040 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 091908d7-e525-4bbb-be87-75bb28980dc2. End Time: 2023-07-16T05:27:40.039994247. Processing Time: 2000 ms
+2023-07-16 05:27:40.138 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 28ab7467-5ea2-49bb-a06f-a6227f8f0bc7. End Time: 2023-07-16T05:27:40.138964539. Processing Time: 2000 ms
+2023-07-16 05:27:40.238 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 3a3f01cd-4544-4168-97d2-3e9f19e741de. End Time: 2023-07-16T05:27:40.238794369. Processing Time: 2000 ms
+2023-07-16 05:27:40.339 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 1ad79f9a-c39f-4a46-81cd-28e67a2159b4. End Time: 2023-07-16T05:27:40.339132141. Processing Time: 2000 ms
+2023-07-16 05:27:40.439 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 390e7d56-79bf-4116-a985-6d483edc6998. End Time: 2023-07-16T05:27:40.439328259. Processing Time: 2000 ms
+2023-07-16 05:27:40.539 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: e2d32069-7154-4300-aa59-a0f581bdbf7f. End Time: 2023-07-16T05:27:40.539207097. Processing Time: 2000 ms
+2023-07-16 05:27:40.639 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: f360e0d2-159c-476c-b4fc-9378b67bb3dd. End Time: 2023-07-16T05:27:40.639293874. Processing Time: 2000 ms
+2023-07-16 05:28:44.684 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 709c277c-dbfd-4ce0-9e94-729380716303. Start Time: 2023-07-16T05:28:44.684208548
+2023-07-16 05:28:44.782 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 87929a72-b8f8-4134-bff6-ca24ac8514b6. Start Time: 2023-07-16T05:28:44.782048256
+2023-07-16 05:28:44.882 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 50f6adc8-4168-4ec3-aed1-fe2c98f5aaf3. Start Time: 2023-07-16T05:28:44.882478107
+2023-07-16 05:28:44.981 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 2f8895a9-4417-4364-a999-6c98418e5261. Start Time: 2023-07-16T05:28:44.981324947
+2023-07-16 05:28:45.081 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 5370c54e-52f0-4205-9615-6eaf6b6e8ab8. Start Time: 2023-07-16T05:28:45.081883721
+2023-07-16 05:28:45.182 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 2484f6d3-ef1a-4ae1-a578-168b75c27aec. Start Time: 2023-07-16T05:28:45.182156311
+2023-07-16 05:28:45.282 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 3978ceb8-9b81-48ba-8c92-6de0c750eaf3. Start Time: 2023-07-16T05:28:45.282025134
+2023-07-16 05:28:45.383 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 1847937c-a3ed-493f-9657-aa9a3430b647. Start Time: 2023-07-16T05:28:45.383471093
+2023-07-16 05:28:45.483 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: dfb2b0b3-94b4-457c-9d67-17ff93458982. Start Time: 2023-07-16T05:28:45.483783465
+2023-07-16 05:28:45.582 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 6d99babc-0520-48bb-8b0f-4dfbc27f6f5f. Start Time: 2023-07-16T05:28:45.582209115
+2023-07-16 05:28:46.684 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 709c277c-dbfd-4ce0-9e94-729380716303. End Time: 2023-07-16T05:28:46.684569880. Processing Time: 2000 ms
+2023-07-16 05:28:46.782 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 87929a72-b8f8-4134-bff6-ca24ac8514b6. End Time: 2023-07-16T05:28:46.782237838. Processing Time: 2000 ms
+2023-07-16 05:28:46.882 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 50f6adc8-4168-4ec3-aed1-fe2c98f5aaf3. End Time: 2023-07-16T05:28:46.882732862. Processing Time: 2000 ms
+2023-07-16 05:28:46.981 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 2f8895a9-4417-4364-a999-6c98418e5261. End Time: 2023-07-16T05:28:46.981777535. Processing Time: 2000 ms
+2023-07-16 05:28:47.082 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 5370c54e-52f0-4205-9615-6eaf6b6e8ab8. End Time: 2023-07-16T05:28:47.082179525. Processing Time: 2000 ms
+2023-07-16 05:28:47.182 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 2484f6d3-ef1a-4ae1-a578-168b75c27aec. End Time: 2023-07-16T05:28:47.182394789. Processing Time: 2000 ms
+2023-07-16 05:28:47.282 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 3978ceb8-9b81-48ba-8c92-6de0c750eaf3. End Time: 2023-07-16T05:28:47.282259287. Processing Time: 2000 ms
+2023-07-16 05:28:47.383 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 1847937c-a3ed-493f-9657-aa9a3430b647. End Time: 2023-07-16T05:28:47.383749093. Processing Time: 2000 ms
+2023-07-16 05:28:47.484 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: dfb2b0b3-94b4-457c-9d67-17ff93458982. End Time: 2023-07-16T05:28:47.483976516. Processing Time: 2000 ms
+2023-07-16 05:28:47.582 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 6d99babc-0520-48bb-8b0f-4dfbc27f6f5f. End Time: 2023-07-16T05:28:47.582592809. Processing Time: 2000 ms
+2023-07-16 05:28:51.632 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 1d5e4fc3-c2ae-4200-9ce1-92e11a018200. Start Time: 2023-07-16T05:28:51.632830677
+2023-07-16 05:28:51.732 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: cc3e5b15-61e6-4820-bd8a-2567fb7b386f. Start Time: 2023-07-16T05:28:51.732865182
+2023-07-16 05:28:51.833 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 82995f17-ac03-49d5-be83-43a8806c26b6. Start Time: 2023-07-16T05:28:51.833057917
+2023-07-16 05:28:51.933 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: bbd2971a-26ea-41ce-af36-421fb4ff3931. Start Time: 2023-07-16T05:28:51.933278689
+2023-07-16 05:28:52.032 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: c56435c7-de83-4cc2-9da1-a3a9a42b64c7. Start Time: 2023-07-16T05:28:52.032474335
+2023-07-16 05:28:52.132 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 6d729548-6502-42f2-8cc8-8b144dfe563c. Start Time: 2023-07-16T05:28:52.132687251
+2023-07-16 05:28:52.232 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 193cff0a-149b-4781-9ed3-0d6ad36bc491. Start Time: 2023-07-16T05:28:52.232177384
+2023-07-16 05:28:52.332 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 942964f9-915f-43be-bbb5-24ccf517e094. Start Time: 2023-07-16T05:28:52.332583027
+2023-07-16 05:28:52.432 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 010d6007-622d-4872-85cc-ee9efa845c91. Start Time: 2023-07-16T05:28:52.432731386
+2023-07-16 05:28:52.532 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: f02d53c4-f1a0-4bf5-a6a7-ce1bdd5c6cb3. Start Time: 2023-07-16T05:28:52.532609659
+2023-07-16 05:28:53.633 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 1d5e4fc3-c2ae-4200-9ce1-92e11a018200. End Time: 2023-07-16T05:28:53.633161425. Processing Time: 2000 ms
+2023-07-16 05:28:53.733 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: cc3e5b15-61e6-4820-bd8a-2567fb7b386f. End Time: 2023-07-16T05:28:53.733167488. Processing Time: 2000 ms
+2023-07-16 05:28:53.833 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 82995f17-ac03-49d5-be83-43a8806c26b6. End Time: 2023-07-16T05:28:53.833292536. Processing Time: 2000 ms
+2023-07-16 05:28:53.933 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: bbd2971a-26ea-41ce-af36-421fb4ff3931. End Time: 2023-07-16T05:28:53.933543566. Processing Time: 2000 ms
+2023-07-16 05:28:54.032 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: c56435c7-de83-4cc2-9da1-a3a9a42b64c7. End Time: 2023-07-16T05:28:54.032716814. Processing Time: 2000 ms
+2023-07-16 05:28:54.133 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 6d729548-6502-42f2-8cc8-8b144dfe563c. End Time: 2023-07-16T05:28:54.132979185. Processing Time: 2000 ms
+2023-07-16 05:28:54.232 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 193cff0a-149b-4781-9ed3-0d6ad36bc491. End Time: 2023-07-16T05:28:54.232358390. Processing Time: 2000 ms
+2023-07-16 05:28:54.332 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 942964f9-915f-43be-bbb5-24ccf517e094. End Time: 2023-07-16T05:28:54.332860783. Processing Time: 2000 ms
+2023-07-16 05:28:54.433 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 010d6007-622d-4872-85cc-ee9efa845c91. End Time: 2023-07-16T05:28:54.432976976. Processing Time: 2000 ms
+2023-07-16 05:28:54.532 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: f02d53c4-f1a0-4bf5-a6a7-ce1bdd5c6cb3. End Time: 2023-07-16T05:28:54.532905613. Processing Time: 2000 ms
+2023-07-16 05:41:20.006 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication using Java 17.0.2 with PID 234795 (/home/willams/teste-api-logging/target/classes started by willams in /home/willams/teste-api-logging)
+2023-07-16 05:41:20.010 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2023-07-16 05:41:21.347 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2023-07-16 05:41:21.355 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2023-07-16 05:41:21.359 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-07-16 05:41:21.360 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+2023-07-16 05:41:21.488 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-07-16 05:41:21.490 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1389 ms
+2023-07-16 05:41:21.940 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2023-07-16 05:41:21.957 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-16 05:41:21.967 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.808 seconds (process running for 3.363)
+2023-07-16 05:41:39.067 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-16 05:41:39.067 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-07-16 05:41:39.067 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2023-07-16 05:41:39.084 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 795d7de5-e140-47e6-8c66-1d92d7af2781. Start Time: 2023-07-16T05:41:39.084385785
+2023-07-16 05:41:39.136 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 621e34d1-de26-4204-9f67-61159d632f66. Start Time: 2023-07-16T05:41:39.136499965
+2023-07-16 05:41:39.236 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 6da15234-2acc-464d-b898-4552a7e8a5a5. Start Time: 2023-07-16T05:41:39.236865411
+2023-07-16 05:41:39.337 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 030f009b-3063-48ab-8757-27df93f208f0. Start Time: 2023-07-16T05:41:39.337227963
+2023-07-16 05:41:39.437 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 1186ebe9-5340-4d86-b9d9-0816ec87ec3f. Start Time: 2023-07-16T05:41:39.437518039
+2023-07-16 05:41:39.537 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 76933b17-0bea-49a4-8425-cb940386fbf5. Start Time: 2023-07-16T05:41:39.537181388
+2023-07-16 05:41:39.636 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: cb6c723e-a27c-482b-9b25-a00ac5cbad1b. Start Time: 2023-07-16T05:41:39.636632658
+2023-07-16 05:41:39.736 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: e5ca18c6-6c1f-4827-a0e3-df7ef606f66e. Start Time: 2023-07-16T05:41:39.736802879
+2023-07-16 05:41:39.836 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 75ecc0e3-0724-4eaf-83b9-6fe86a835e83. Start Time: 2023-07-16T05:41:39.836886932
+2023-07-16 05:41:39.937 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Received request. Request ID: 9589b533-dbf7-4545-b9f7-e1f751e760bc. Start Time: 2023-07-16T05:41:39.937756609
+2023-07-16 05:41:41.085 [http-nio-8080-exec-1] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 795d7de5-e140-47e6-8c66-1d92d7af2781. End Time: 2023-07-16T05:41:41.085197880. Processing Time: 2000 ms
+2023-07-16 05:41:41.136 [http-nio-8080-exec-2] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 621e34d1-de26-4204-9f67-61159d632f66. End Time: 2023-07-16T05:41:41.136706461. Processing Time: 2000 ms
+2023-07-16 05:41:41.237 [http-nio-8080-exec-3] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 6da15234-2acc-464d-b898-4552a7e8a5a5. End Time: 2023-07-16T05:41:41.237083735. Processing Time: 2000 ms
+2023-07-16 05:41:41.337 [http-nio-8080-exec-4] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 030f009b-3063-48ab-8757-27df93f208f0. End Time: 2023-07-16T05:41:41.337579609. Processing Time: 2000 ms
+2023-07-16 05:41:41.437 [http-nio-8080-exec-5] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 1186ebe9-5340-4d86-b9d9-0816ec87ec3f. End Time: 2023-07-16T05:41:41.437810711. Processing Time: 2000 ms
+2023-07-16 05:41:41.537 [http-nio-8080-exec-6] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 76933b17-0bea-49a4-8425-cb940386fbf5. End Time: 2023-07-16T05:41:41.537472542. Processing Time: 2000 ms
+2023-07-16 05:41:41.636 [http-nio-8080-exec-7] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: cb6c723e-a27c-482b-9b25-a00ac5cbad1b. End Time: 2023-07-16T05:41:41.636867727. Processing Time: 2000 ms
+2023-07-16 05:41:41.737 [http-nio-8080-exec-8] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: e5ca18c6-6c1f-4827-a0e3-df7ef606f66e. End Time: 2023-07-16T05:41:41.737005096. Processing Time: 2000 ms
+2023-07-16 05:41:41.837 [http-nio-8080-exec-9] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 75ecc0e3-0724-4eaf-83b9-6fe86a835e83. End Time: 2023-07-16T05:41:41.837278088. Processing Time: 2000 ms
+2023-07-16 05:41:41.938 [http-nio-8080-exec-10] INFO  c.e.d.controllers.ResourceController - Processed request. Request ID: 9589b533-dbf7-4545-b9f7-e1f751e760bc. End Time: 2023-07-16T05:41:41.938066868. Processing Time: 2000 ms

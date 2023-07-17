@@ -1,0 +1,43 @@
+version: '3'
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.15.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    networks:
+      - mynetwork
+    ports:
+      - 9200:9200
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:7.15.0
+    container_name: logstash
+    volumes:
+      - ./logs:/usr/share/logstash/pipeline/logs
+      - ./logstash-config:/usr/share/logstash/pipeline
+    networks:
+      - mynetwork
+    ports:
+      - 5044:5044
+    depends_on:
+      - elasticsearch
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.15.0
+    container_name: kibana
+    networks:
+      - mynetwork
+    ports:
+      - 5601:5601
+    depends_on:
+      - elasticsearch
+
+networks:
+  mynetwork:
+
+volumes:
+  esdata:
